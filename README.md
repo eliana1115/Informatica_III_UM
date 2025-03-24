@@ -61,6 +61,25 @@ Informática_III_UM/
 - Power BI (opcional)  
 - GitHub para organización del material
 
+## 📁 01_Clase_Orientacion
+
+**Tema:** Introducción, presentación del curso y diagnóstico de conocimientos previos.
+
+### 🎯 Objetivos:
+- Presentar al equipo docente y la propuesta académica.
+- Explicar los objetivos, contenidos y modalidad de evaluación.
+- Relevar conocimientos previos sobre informática aplicada a la nutrición.
+
+### 🧩 Recursos:
+- 📎 [Presentación – Clase 1]
+- 📄 [Guía práctica – Clase 1]
+- ✅ [Formulario diagnóstico]
+
+### 📌 Actividades:
+- Completar el formulario diagnóstico de conocimientos previos.
+- Escribir expectativas personales y académicas.
+- Reflexionar sobre el uso actual de herramientas digitales en la profesión.
+
 ---
 
 ## 📩 Consultas
