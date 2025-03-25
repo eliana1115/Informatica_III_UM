@@ -1,9 +1,9 @@
  ![https://dawoork.com/retos/](./[![Ir al Programa](https://github.com/eliana1115/Informatica_III_UM/blob/main/Images/banner_clas.jpg?raw=true)](https://github.com/eliana1115/Informatica_III_UM/tree/main/00.PROGRAMA)
 
  
- # Curso de Data Analytics Flex - CODER HOUSE
+ # Informática III - UNIVERSIDAD DE MENDOZA
  
- Bienvenido al repositorio del curso de Data Analytics Flex de CODER HOUSE. Este repositorio contiene todos los materiales de apoyo, como presentaciones y documentos de práctica, necesarios para el curso.
+ Bienvenido al repositorio de la materia Informática III de la Universidad de Mendoza. Este repositorio contiene todos los materiales de apoyo, como presentaciones y documentos de práctica, necesarios para la cursada.
  
  ## Estructura del Repositorio
  Este repositorio está organizado por carpetas que corresponden a las distintas unidades y temas tratados en el curso. Cada carpeta contiene los materiales pertinentes como presentaciones en PowerPoint y documentos de actividades.
@@ -29,17 +29,17 @@
  
  ## Instrucciones para el Uso del Repositorio
  
- Este repositorio contiene todos los materiales del curso de Data Analytics Flex. Aquí encontrarás las instrucciones para acceder y utilizar estos materiales de manera efectiva.
+ Este repositorio contiene todos los materiales de la materia Informática III. Aquí encontrarás las instrucciones para acceder y utilizar estos materiales de manera efectiva.
  
  ### Acceso a los Materiales
  
  1. **Clona el Repositorio**: Para tener acceso local a todos los materiales, realiza un clon del repositorio usando el siguiente comando en tu terminal:
  
   ```bash
- git clone https://github.com/dawoork/Clases.git
+ git clone https://github.com/dawoork/Informatica_III_UM
   ```
  
- 2. **Navega por las Carpetas**: Cada unidad del curso tiene su propia carpeta dentro del repositorio. Dentro de cada carpeta, encontrarás archivos como presentaciones y documentos de práctica.
+ 2. **Navega por las Carpetas**: Cada unidad de la materia tiene su propia carpeta dentro del repositorio. Dentro de cada carpeta, encontrarás archivos como presentaciones y documentos de práctica.
  
  ### Uso de los Materiales
  
