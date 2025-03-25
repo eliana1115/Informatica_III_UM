@@ -96,6 +96,7 @@ https://github.com/eliana1115/Informatica_III_UM.git
  
  *He creado un curso completo gratis para aprender a trabajar con Git y GitHub desde cero.*
  
- [![Curso Git y GitHub](https://github.com/eliana1115/Git-y-GitHub-desde-cero.git)
+![Ir a Fundamentos de Git](https://github.com/eliana1115/Git-y-GitHub-desde-cero/blob/main/image/curso-git-github.png?raw=true)](https://github.com/eliana1115/Git-y-GitHub-desde-cero/tree/main/01_Fundamentos_Git)
+)
  
  
