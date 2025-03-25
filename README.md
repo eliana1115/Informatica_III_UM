@@ -67,7 +67,7 @@ https://github.com/eliana1115/Informatica_III_UM.git
  
  ### Soporte
  
- 8. **Pide Ayuda**: Si tienes dudas sobre los materiales o el curso, puedes contactarme directamente a través de (tu dirección de correo electrónico) o abrir un issue en este repositorio.
+ 8. **Pide Ayuda**: Si tienes dudas sobre los materiales o la materia puedes contactarme directamente a través de (tu dirección de correo electrónico) o abrir un issue en este repositorio.
  
  ## Guía Rápida de Git
  
@@ -77,7 +77,7 @@ https://github.com/eliana1115/Informatica_III_UM.git
  2. **Clone Tu Fork**: Clona tu fork a tu máquina local:
  
   ```bash
- git clone https://github.com/dawoork/Clases.git
+ https://github.com/eliana1115/Informatica_III_UM.git
   ```
  
  3. **Haz tus Cambios**: Realiza cambios o añade nuevos archivos si es necesario.
