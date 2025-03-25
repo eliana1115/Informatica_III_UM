@@ -16,7 +16,7 @@ Bienvenida/o al repositorio oficial de la asignatura **Informática III**. Este 
 | 05 | Búsqueda en bases científicas y validación de fuentes | próximamente | próximamente | próximamente |
 | 06 | Planillas electrónicas: funciones, macros, base de datos | próximamente | próximamente | próximamente |
 | 07 | Planillas electrónicas: escenarios, hipótesis, histogramas | próximamente | próximamente | próximamente |
-| 08 | Software estadístico para investigación (JASP/Jamovi) | próximamente | próximamente | próximamente |
+| 08 | Software estadístico para investigación (Power BI o Tableau) | próximamente | próximamente | próximamente |
 | 09 | Clase integradora y evaluación final | próximamente | próximamente | próximamente |
 
 *(Se irán agregando más clases a medida que avance el curso.)*
