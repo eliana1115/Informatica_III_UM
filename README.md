@@ -96,18 +96,6 @@ https://github.com/eliana1115/Informatica_III_UM.git
  
  *He creado un curso completo gratis para aprender a trabajar con Git y GitHub desde cero.*
  
- [![Curso Git y GitHub](https://img.shields.io/github/stars/dawoork/git-hello?label=Curso%20Git%20GitHub&style=social)](https://github.com/dawoork/git-hello)
- 
- ## Te ayudo con tu portafolio 
- 
- **Consulta proyectos para que añadas en tu portafolio según tu espacialidad** 
- 
- [![Portafolio Analyst](https://img.shields.io/github/stars/dawoork/portafolio-analyst?label=Portafolio%20Analyst&style=social)](https://github.com/dawoork/portafolio-analyst) [![Portafolio Scientist](https://img.shields.io/github/stars/dawoork/portafolio-scientist?label=Portafolio%20scientist&style=social)](https://github.com/dawoork/portafolio-scientist) 
+ [![Curso Git y GitHub](https://github.com/eliana1115/Git-y-GitHub-desde-cero.git)
  
  
- ### Data Scientist
- 
- [![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
- [![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/leanaraque)
- [![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dawoork.com/discord)
- [![Link](https://img.shields.io/badge/Links_de_interés-dawoork.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
