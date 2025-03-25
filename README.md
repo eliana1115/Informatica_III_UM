@@ -37,16 +37,12 @@
  ---
  ---
  
- ## Instrucciones para el Uso del Repositorio
- 
- Este repositorio contiene todos los materiales de la materia Informática III. Aquí encontrarás las instrucciones para acceder y utilizar estos materiales de manera efectiva.
- 
  ### Acceso a los Materiales
  
  1. **Clona el Repositorio**: Para tener acceso local a todos los materiales, realiza un clon del repositorio usando el siguiente comando en tu terminal:
  
   ```bash
- git clone https://github.com/dawoork/Informatica_III_UM
+https://github.com/eliana1115/Informatica_III_UM.git
   ```
  
  2. **Navega por las Carpetas**: Cada unidad de la materia tiene su propia carpeta dentro del repositorio. Dentro de cada carpeta, encontrarás archivos como presentaciones y documentos de práctica.
