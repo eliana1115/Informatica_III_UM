@@ -1,4 +1,4 @@
- ![https://dawoork.com/retos/](./[![Ir al Programa](https://github.com/eliana1115/Informatica_III_UM/blob/main/Images/banner_clas.jpg?raw=true)](https://github.com/eliana1115/Informatica_III_UM/tree/main/00.PROGRAMA)
+[![Ir al Programa](https://github.com/eliana1115/Informatica_III_UM/blob/main/Images/banner_clas.jpg?raw=true)](https://github.com/eliana1115/Informatica_III_UM/tree/main/00.PROGRAMA)
 
  
  # Informática III - UNIVERSIDAD DE MENDOZA
